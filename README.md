@@ -33,3 +33,9 @@
 
 7. Generic
   - 하나의 인터페이스로 여러 타입을 이용할 수 있게 하는 방법
+
+8. Partial, Required, Pick, Omit
+  - 기존 interface를 재활용 할 수 있게 만든다.
+
+9. extends
+  - 특정 인터페이스를 상속받아 인터페이스를 확장할 수 있다.

@@ -183,7 +183,8 @@ const mixed: Omit<User, 'id' | 'address' | 'age' | 'createdAt' | 'updatedAt'> & 
     name: '',
 }
 
-
+// extends
+// 인터페이스 상속 개념 예시
 interface Time {
     hour: number;
     minute: number;
